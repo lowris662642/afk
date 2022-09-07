@@ -1,0 +1,6 @@
+{
+	"ip":"VanillaCraft111.aternos.me:29897",
+	"port": "29897",
+	"name": "afkbot1",
+	"auto-night-skip":"true"
+}
